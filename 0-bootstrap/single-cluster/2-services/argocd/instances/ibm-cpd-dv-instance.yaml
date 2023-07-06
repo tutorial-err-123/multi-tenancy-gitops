@@ -31,5 +31,7 @@ spec:
         value: Enterprise
       - name: spec.version
         value: 1.7.8
+      - name: spec.storageClass
+        value: ocs-storagecluster-cephfs
       - name: spec.size
         value: small
